@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="f48f516d-9166-4d92-874d-690815b2af98" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:24496/Contato.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Contato.disco" MetadataType="Disco" ID="967e12ad-1ef3-4e36-8bf4-120c8fcdfc32" SourceId="1" SourceUrl="http://localhost:24496/Contato.svc?disco" />
+    <MetadataFile FileName="Contato.xsd" MetadataType="Schema" ID="60cd0e16-a4f6-4606-b117-06cc22d17eca" SourceId="1" SourceUrl="http://localhost:24496/Contato.svc?xsd=xsd0" />
+    <MetadataFile FileName="Contato.wsdl" MetadataType="Wsdl" ID="b3668232-4922-41fb-a9f3-7bae2fcf6114" SourceId="1" SourceUrl="http://localhost:24496/Contato.svc?wsdl" />
+    <MetadataFile FileName="Contato1.xsd" MetadataType="Schema" ID="321cf578-a0f3-43d7-bf51-66b22fd00878" SourceId="1" SourceUrl="http://localhost:24496/Contato.svc?xsd=xsd2" />
+    <MetadataFile FileName="Contato2.xsd" MetadataType="Schema" ID="dfe6e4b8-1de2-43e9-aa11-847f48b38733" SourceId="1" SourceUrl="http://localhost:24496/Contato.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

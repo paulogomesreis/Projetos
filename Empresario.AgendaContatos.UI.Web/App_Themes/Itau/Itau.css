@@ -1,0 +1,35 @@
+﻿.LABEL {
+    color: orange;
+    font-family: Verdana;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.BUTTON {
+    background-color: orange;
+    color: white;
+    font-size: 15px;
+    border: 3px solid darkblue;
+    font-family: Verdana;
+}
+
+.TEXTBOX {
+    background-color: lightgray;
+    color: black;
+    font-size: 15px;
+    font-family: Verdana;
+    border: 1px solid orange;
+}
+
+.RADIOBUTTON {
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Verdana;
+    color: orange;
+}
+
+.DROPDOWLIST {
+    color: orange;
+    font-size: 15px;
+    font-family: Verdana;
+}

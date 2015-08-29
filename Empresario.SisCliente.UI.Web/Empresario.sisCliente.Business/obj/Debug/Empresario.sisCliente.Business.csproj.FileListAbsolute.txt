@@ -1,0 +1,13 @@
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.sisCliente.Business\bin\Debug\Empresario.sisCliente.Business.dll
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.sisCliente.Business\bin\Debug\Empresario.sisCliente.Business.pdb
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.sisCliente.Business\obj\Debug\Empresario.sisCliente.Business.dll
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.sisCliente.Business\obj\Debug\Empresario.sisCliente.Business.pdb
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.sisCliente.Business\bin\Debug\Empresario.SisCliente.Model.dll
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.sisCliente.Business\bin\Debug\Empresario.SisCliente.Model.pdb
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.sisCliente.Business\bin\Debug\Empresario.SisCliente.Repository.dll
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.sisCliente.Business\bin\Debug\Empresario.SisCliente.DataAccess.dll
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.sisCliente.Business\bin\Debug\EntityFramework.dll
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.sisCliente.Business\bin\Debug\Empresario.SisCliente.Repository.pdb
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.sisCliente.Business\bin\Debug\Empresario.SisCliente.DataAccess.pdb
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.sisCliente.Business\bin\Debug\EntityFramework.xml
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.sisCliente.Business\obj\Debug\Empresario.sisCliente.Business.csprojResolveAssemblyReference.cache

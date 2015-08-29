@@ -1,0 +1,8 @@
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.DataAccess\bin\Debug\Empresario.SisCliente.DataAccess.dll
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.DataAccess\bin\Debug\Empresario.SisCliente.DataAccess.pdb
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.DataAccess\obj\Debug\Empresario.SisCliente.DataAccess.dll
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.DataAccess\obj\Debug\Empresario.SisCliente.DataAccess.pdb
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.DataAccess\bin\Debug\Empresario.SisCliente.DataAccess.dll.config
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.DataAccess\obj\Debug\Empresario.SisCliente.DataAccess.csprojResolveAssemblyReference.cache

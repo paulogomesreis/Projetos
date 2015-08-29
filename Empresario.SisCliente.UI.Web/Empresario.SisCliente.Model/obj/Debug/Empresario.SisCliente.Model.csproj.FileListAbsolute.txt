@@ -1,0 +1,4 @@
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.Model\bin\Debug\Empresario.SisCliente.Model.dll
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.Model\bin\Debug\Empresario.SisCliente.Model.pdb
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.Model\obj\Debug\Empresario.SisCliente.Model.dll
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.Model\obj\Debug\Empresario.SisCliente.Model.pdb

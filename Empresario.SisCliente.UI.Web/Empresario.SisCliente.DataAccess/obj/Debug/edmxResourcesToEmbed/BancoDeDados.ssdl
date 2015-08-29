@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EMPRESARIOModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="EMPRESARIOModelStoreContainer">
+    <EntitySet Name="TB_CLIENTE" EntityType="EMPRESARIOModel.Store.TB_CLIENTE" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="TB_CLIENTE">
+    <Key>
+      <PropertyRef Name="ID_CLIENTE" />
+    </Key>
+    <Property Name="ID_CLIENTE" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="NM_CLIENTE" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="DS_ENDERECO" Type="varchar" Nullable="false" MaxLength="100" />
+    <Property Name="NR_TELEFONE" Type="varchar" Nullable="false" MaxLength="10" />
+    <Property Name="DS_EMAIL" Type="varchar" Nullable="false" MaxLength="30" />
+  </EntityType>
+</Schema>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="~/Home.aspx" title="Home"  description="Essa é a página principal do sistema">
+        <siteMapNode url="~/Modulos/Contatos/Listar.aspx" title="Lista de Contatos"  description="Esse é módulo de gerenciamento de contatos" />
+        <siteMapNode url="~/Modulos/Contatos/Inserir.aspx" title="Cadastro de Contatos"  description="Esse é módulo de cadastro de contatos" />
+      <siteMapNode url="~/Modulos/Relatorios/ListarContatos.aspx" title="Relatório de Contatos" description="Essa a página de impressão de contatos"/>
+    </siteMapNode>
+</siteMap>

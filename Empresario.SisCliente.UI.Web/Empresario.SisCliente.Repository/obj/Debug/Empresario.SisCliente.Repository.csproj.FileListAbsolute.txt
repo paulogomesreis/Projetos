@@ -1,0 +1,11 @@
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.Repository\bin\Debug\Empresario.SisCliente.Repository.dll
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.Repository\bin\Debug\Empresario.SisCliente.Repository.pdb
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.Repository\bin\Debug\Empresario.SisCliente.DataAccess.dll
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.Repository\bin\Debug\Empresario.SisCliente.Model.dll
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.Repository\bin\Debug\Empresario.SisCliente.DataAccess.pdb
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.Repository\bin\Debug\Empresario.SisCliente.Model.pdb
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.Repository\obj\Debug\Empresario.SisCliente.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.Repository\obj\Debug\Empresario.SisCliente.Repository.dll
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.Repository\obj\Debug\Empresario.SisCliente.Repository.pdb

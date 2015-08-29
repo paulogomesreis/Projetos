@@ -1,0 +1,15 @@
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.UI.Web\bin\Empresario.SisCliente.UI.Web.dll
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.UI.Web\bin\Empresario.SisCliente.UI.Web.pdb
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.UI.Web\obj\Debug\Empresario.SisCliente.UI.Web.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.UI.Web\obj\Debug\Empresario.SisCliente.UI.Web.dll
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.UI.Web\obj\Debug\Empresario.SisCliente.UI.Web.pdb
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.UI.Web\bin\Empresario.SisCliente.Model.dll
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.UI.Web\bin\Empresario.SisCliente.Model.pdb
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.UI.Web\bin\Empresario.sisCliente.Business.dll
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.UI.Web\bin\Empresario.sisCliente.Business.pdb
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.UI.Web\bin\Empresario.SisCliente.Repository.dll
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.UI.Web\bin\Empresario.SisCliente.DataAccess.dll
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.UI.Web\bin\EntityFramework.dll
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.UI.Web\bin\Empresario.SisCliente.Repository.pdb
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.UI.Web\bin\Empresario.SisCliente.DataAccess.pdb
+C:\Users\Acer\Documents\estudo .net\Empresario.SisCliente.UI.Web\Empresario.SisCliente.UI.Web\bin\EntityFramework.xml
